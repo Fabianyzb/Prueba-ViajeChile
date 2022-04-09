@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color:white; 
+    background-color: black;
+}
+
+.main-color{
+    background-color:#00d8ff;
+}
+
+.carousel-item img{
+    max-height: 100vh;
+}
+
+.card{
+    background-color: #00d8ff;
+    border: 0ch;
+    
+}
+
+button{
+    background-color: #00d8ff;
+}
+
+#iconos{
+    margin-top: 7px;
+}
+
